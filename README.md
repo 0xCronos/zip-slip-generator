@@ -1,4 +1,4 @@
-# zip-slip-generator
+# Zip Slip Generator
 
 A simple script for compressing malicious files appending a custom parent directory for exploiting zip slip vulnerability.
 
